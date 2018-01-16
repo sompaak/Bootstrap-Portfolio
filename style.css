@@ -1,0 +1,58 @@
+.navbar-color
+{
+	background-color: white;
+
+
+}
+
+#name
+{
+	background-color: #4aaaa5;
+	margin-left: 125px;
+	color: #ffffff;
+}
+
+
+
+
+#image
+{
+	float: left;
+
+}
+
+.para-align
+{
+	position: relative;
+	left: 10px;
+
+}
+
+.bottom
+{
+	border-top: solid #4aaaa5 10px;
+	background-color: #666666;
+	padding: 30px;
+	text-align: center;
+	bottom: 0;
+
+
+}
+
+
+
+#size
+{
+	height: 50px;
+}
+
+#footer
+{
+	margin-top: 200px;
+}
+
+
+
+
+
+
